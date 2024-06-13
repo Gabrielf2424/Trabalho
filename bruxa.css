@@ -1,0 +1,68 @@
+body{
+    background-image: url(./img/Eliza\ quadro\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+
+
+p:hover{
+    font-size: 30px;
+color: black;
+background-color: red;
+font-family: cursive;
+}
+img:hover{
+    width:300px;
+    text-align: center;
+  display:flex ;
+  justify-content: center;
+align-items: center;
+
+}
+a{
+    font-size: none;
+    color: rgb(252, 5, 5);
+    
+}
+header{
+
+    
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: baseline;
+
+    align-items: center;
+    
+    }
+    li{
+    list-style: none;
+    text-decoration: none;
+    
+    font-size: 20px;
+    margin: 180px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    }
+    ul{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    
+    }
+    a{
+        text-decoration: none;
+    
+    }
+    li:hover{
+       
+       padding: 10px;
+       
+    }
+    h2{
+  text-align: center;
+  color: rgba(224, 53, 41, 0.849);
+  font-size: 70px;
+  font-family: fantasy;
+    }

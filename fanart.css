@@ -1,0 +1,60 @@
+header{
+
+    
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: baseline;
+    
+    align-items: center;
+    }
+    li{
+    list-style: none;
+    text-decoration: none;
+    
+    font-size: 20px;
+    margin: 180px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    }
+    ul{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    
+    }
+    a{
+        text-decoration: none;
+    color: rgb(243, 20, 20);
+    }
+    li:hover{
+       background-color: rgb(241, 233, 233);
+       padding: 10px;
+       
+    }
+    body{
+        background-image: url(imgfan/the-quarry-game-09.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    h1{
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: cursive;
+
+    }
+    h2{
+     color: rgba(137, 43, 226, 0.877);
+     text-align: center;
+     font-size: 40px;
+     font-family: cursive;
+     display: flex;
+
+    }
+    a{
+        display:ruby-base;
+        
+    }
+    
+   

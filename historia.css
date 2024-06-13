@@ -1,0 +1,64 @@
+header{
+
+    
+    width: 100vw;
+    height: 80px;
+    display: flex;
+    justify-content: baseline;
+
+    align-items: center;
+    }
+    li{
+    list-style: none;
+    text-decoration: none;
+    
+    font-size: 20px;
+    margin: 180px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    }
+    ul{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    
+    }
+    a{
+        text-decoration: none;
+    color: red;
+    }
+    li:hover{
+       
+       padding: 10px;
+       
+    }
+    body{
+        background-image: url(./imghistoria/NR1WmO7B_4x-scaled.webp);
+        background-repeat: no-repeat;
+        background-size:cover;
+        
+    
+    }
+   
+    
+    p{
+        text-align: center;
+        font-family: cursive;
+    }
+    
+
+    h1{
+        text-align: center;
+        color: rgb(61, 50, 50);
+        font-size: 55px;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+    p{
+        text-align: center;
+        position:unset;
+        font-size: 30px;
+        color: red;
+
+    }
+    
+    

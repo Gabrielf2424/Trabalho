@@ -1,0 +1,22 @@
+body{
+    background-image: url(img/img\ fundooo.webp);
+    background-repeat: no-repeat;
+    background-size:cover;
+}
+a{
+    font-size: 40px;
+    color: red;
+    text-decoration: none;
+}
+h1{
+    font-size: 80px;
+    text-align: center;
+color: red;
+
+}
+p{
+text-align: center;
+color: white;
+font-size: 40px;
+font-family: cursive;
+}
