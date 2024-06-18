@@ -11,6 +11,7 @@ p:hover{
 color: black;
 background-color: red;
 font-family: cursive;
+padding: 20px;
 }
 img:hover{
     width:300px;
